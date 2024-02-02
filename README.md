@@ -1,0 +1,1 @@
+This repository was created with the intention of storing files used in personal data analysis. It contains source data files as well as Jupyter Notebooks containing documented step-by-step analysis of the source data. Results of the analysis are selectively posted each week to LinkedIn if you would like to play! 
