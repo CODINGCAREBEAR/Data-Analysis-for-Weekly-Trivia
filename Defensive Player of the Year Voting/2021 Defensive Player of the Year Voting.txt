@@ -1,0 +1,5 @@
+,,,,,,Games,Games,Tackles,Tackles,,Def Interceptions,Def Interceptions,Def Interceptions,-additional
+Rk,Pos,Player,Tm,Votes,Share,G,GS,Solo,Ast,Sk,Int,Yds,TD,-9999
+1,LB,T.J. Watt,Pittsburgh Steelers,42.0,84%,15,15,48,16,22.5,0,0,0,WattT.00
+2,LB,Micah Parsons,Dallas Cowboys,5.0,10%,16,16,64,20,13.0,0,0,0,ParsMi00
+3,DT,Aaron Donald,Los Angeles Rams,3.0,6%,17,17,38,46,12.5,0,0,0,DonaAa00

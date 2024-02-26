@@ -1,0 +1,12 @@
+,,,,,,Games,Games,Tackles,Tackles,,Def Interceptions,Def Interceptions,Def Interceptions,-additional
+Rk,Pos,Player,Tm,Votes,Share,G,GS,Solo,Ast,Sk,Int,Yds,TD,-9999
+1,MLB,Brian Urlacher,Chicago Bears,34.0,68%,16,16,98,24,6.0,0,0,0,UrlaBr00
+2,RDE,Dwight Freeney,Indianapolis Colts,4.0,8%,16,13,36,6,11.0,0,0,0,FreeDw00
+3,SS,Troy Polamalu,Pittsburgh Steelers,3.0,6%,16,16,74,18,3.0,2,42,0,PolaTr99
+4,RDE,Osi Umenyiora,New York Giants,2.0,4%,16,16,49,22,14.5,0,0,0,UmenOs99
+5,SS,Adrian Wilson,Arizona Cardinals,2.0,4%,16,16,93,16,8.0,1,36,0,WilsAd99
+6,LCB,Champ Bailey,Denver Broncos,1.0,2%,14,14,60,6,0.0,8,139,2,BailCh00
+7,RLB,Lance Briggs,Chicago Bears,1.0,2%,16,16,85,24,2.0,2,30,1,BrigLa99
+8,RDE,Alex Brown,Chicago Bears,1.0,2%,16,16,39,7,6.0,0,0,0,BrowAl20
+9,LDT,Marcus Stroud,Jacksonville Jaguars,1.0,2%,16,16,32,11,1.0,0,0,0,StroMa01
+10,RCB,Nathan Vasher,Chicago Bears,1.0,2%,16,15,40,7,0.0,8,145,1,VashNa99

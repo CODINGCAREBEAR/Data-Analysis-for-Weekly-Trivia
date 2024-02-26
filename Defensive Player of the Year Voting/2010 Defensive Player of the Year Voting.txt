@@ -1,0 +1,9 @@
+,,,,,,Games,Games,Tackles,Tackles,,Def Interceptions,Def Interceptions,Def Interceptions,-additional
+Rk,Pos,Player,Tm,Votes,Share,G,GS,Solo,Ast,Sk,Int,Yds,TD,-9999
+1,SS,Troy Polamalu,Pittsburgh Steelers,17.0,34%,14,14,49,14,1.0,7,101,1,PolaTr99
+2,LOLB,Clay Matthews,Green Bay Packers,15.0,30%,15,15,54,6,13.5,1,62,1,MattCl99
+3,ROLB,James Harrison,Pittsburgh Steelers,8.0,16%,16,16,70,30,10.5,2,2,0,HarrJa23
+4,RDE,Julius Peppers,Chicago Bears,6.0,12%,16,16,43,11,8.0,2,1,0,PeppJu99
+5,MLB,Brian Urlacher,Chicago Bears,2.0,4%,16,16,97,29,4.0,1,0,0,UrlaBr00
+6,LDE,Haloti Ngata,Baltimore Ravens,1.0,2%,16,15,47,16,5.5,0,0,0,NgatHa20
+7,FS,Ed Reed,Baltimore Ravens,1.0,2%,10,10,30,7,0.0,8,183,0,ReedEd00

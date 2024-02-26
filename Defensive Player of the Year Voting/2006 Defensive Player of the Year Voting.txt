@@ -1,0 +1,8 @@
+,,,,,,Games,Games,Tackles,Tackles,,Def Interceptions,Def Interceptions,Def Interceptions,-additional
+Rk,Pos,Player,Tm,Votes,Share,G,GS,Solo,Ast,Sk,Int,Yds,TD,-9999
+1,RDE,Jason Taylor,Miami Dolphins,22.0,44%,16,16,42,20,13.5,2,71,2,TaylJa03
+2,LCB,Champ Bailey,Denver Broncos,16.0,32%,16,16,74,12,0.0,10,162,1,BailCh00
+3,LOLB,Shawne Merriman,San Diego Chargers,6.0,12%,12,12,49,14,17.0,1,10,0,MerrSh99
+4,MLB,Brian Urlacher,Chicago Bears,4.0,8%,16,16,93,49,0.0,3,38,0,UrlaBr00
+5,MLB,Ray Lewis,Baltimore Ravens,1.0,2%,14,14,80,23,5.0,2,27,0,LewiRa00
+6,LDE,Trevor Pryce,Baltimore Ravens,1.0,2%,16,16,36,10,13.0,0,0,0,PrycTr00

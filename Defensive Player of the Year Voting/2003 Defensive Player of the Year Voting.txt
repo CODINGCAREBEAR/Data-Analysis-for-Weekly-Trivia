@@ -1,0 +1,8 @@
+,,,,,,Games,Games,Tackles,Tackles,,Def Interceptions,Def Interceptions,Def Interceptions,-additional
+Rk,Pos,Player,Tm,Votes,Share,G,GS,Solo,Ast,Sk,Int,Yds,TD,-9999
+1,RILB,Ray Lewis,Baltimore Ravens,43.0,86%,16,16,121,42,1.5,6,99,1,LewiRa00
+2,RDT,Richard Seymour,New England Patriots,2.0,4%,15,14,34,22,8.0,0,0,0,SeymRi00
+3,FS,Roy Williams,Dallas Cowboys,2.0,4%,16,16,57,18,2.0,2,69,0,WillRo03
+4,SS,Rodney Harrison,New England Patriots,1.0,2%,16,16,92,33,3.0,3,0,0,HarrRo01
+5,LDE,Leonard Little,St. Louis Rams,1.0,2%,12,12,41,6,12.5,1,28,0,LittLe00
+6,LDE,Trevor Pryce,Denver Broncos,1.0,2%,16,16,33,11,8.5,0,0,0,PrycTr00

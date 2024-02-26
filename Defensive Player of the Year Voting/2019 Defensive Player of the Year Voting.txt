@@ -1,0 +1,9 @@
+,,,,,,Games,Games,Tackles,Tackles,,Def Interceptions,Def Interceptions,Def Interceptions,-additional
+Rk,Pos,Player,Tm,Votes,Share,G,GS,Solo,Ast,Sk,Int,Yds,TD,-9999
+1,RCB,Stephon Gilmore,New England Patriots,21.0,42%,16,16,44,9,0.0,6,126,2,GilmSt00
+2,LOLB,Chandler Jones,Arizona Cardinals,14.0,28%,16,16,42,11,19.0,0,0,0,JoneCh03
+3,LOLB,T.J. Watt,Pittsburgh Steelers,10.0,20%,16,16,35,20,14.5,2,7,0,WattT.00
+4,ROLB,Shaquil Barrett,Tampa Bay Buccaneers,2.0,4%,16,16,45,13,19.5,1,4,0,BarrSh00
+5,RDE,Aaron Donald,Los Angeles Rams,1.0,2%,16,16,29,19,12.5,0,0,0,DonaAa00
+6,LDE,Danielle Hunter,Minnesota Vikings,1.0,2%,16,16,52,18,14.5,0,0,0,HuntDa01
+7,RCB,Tre'Davious White,Buffalo Bills,1.0,2%,15,15,48,10,1.0,6,57,0,WhitTr01

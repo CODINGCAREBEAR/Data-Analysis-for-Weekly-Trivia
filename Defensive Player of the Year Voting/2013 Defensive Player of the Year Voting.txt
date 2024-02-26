@@ -1,0 +1,8 @@
+,,,,,,Games,Games,Tackles,Tackles,,Def Interceptions,Def Interceptions,Def Interceptions,-additional
+Rk,Pos,Player,Tm,Votes,Share,G,GS,Solo,Ast,Sk,Int,Yds,TD,-9999
+1,MLB,Luke Kuechly,Carolina Panthers,19.0,38%,16,16,93,63,2.0,4,33,0,KuecLu00
+2,ROLB,Robert Mathis,Indianapolis Colts,11.5,23%,16,16,44,15,19.5,0,0,0,MathRo20
+3,FS,Earl Thomas,Seattle Seahawks,7.5,15%,16,16,78,27,0.0,5,9,0,ThomEa99
+4,RDE,Robert Quinn,St. Louis Rams,6.0,12%,16,16,50,7,19.0,0,0,0,QuinRo00
+5,LCB,Richard Sherman,Seattle Seahawks,4.0,8%,16,16,38,10,0.0,8,125,1,SherRi00
+6,LDE,J.J. Watt,Houston Texans,2.0,4%,16,16,65,15,10.5,0,0,0,WattJ.00

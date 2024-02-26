@@ -1,0 +1,12 @@
+,,,,,,Games,Games,Tackles,Tackles,,Def Interceptions,Def Interceptions,Def Interceptions,-additional
+Rk,Pos,Player,Tm,Votes,Share,G,GS,Solo,Ast,Sk,Int,Yds,TD,-9999
+1,SS,Bob Sanders,Indianapolis Colts,31.0,62%,15,15,72,25,3.5,2,32,0,SandBo99
+2,RDT,Albert Haynesworth,Tennessee Titans,4.0,8%,13,12,32,8,6.0,0,0,0,HaynAl20
+3,LDE,Patrick Kerney,Seattle Seahawks,4.0,8%,16,16,51,12,14.5,1,0,0,KernPa99
+4,rcb,Antonio Cromartie,San Diego Chargers,3.0,6%,16,8,39,5,0.0,10,144,1,CromAn20
+5,LOLB,Mike Vrabel,New England Patriots,2.0,4%,16,15,56,21,12.5,0,0,0,VrabMi20
+6,ROLB,DeMarcus Ware,Dallas Cowboys,2.0,4%,16,16,60,24,14.0,0,0,0,WareDe99
+7,LCB,Ronde Barber,Tampa Bay Buccaneers,1.0,2%,16,16,48,10,1.0,2,32,1,BarbRo00
+8,ROLB,James Harrison,Pittsburgh Steelers,1.0,2%,16,16,76,22,8.5,1,20,0,HarrJa23
+9,RDE,Mario Williams,Houston Texans,1.0,2%,16,16,43,16,14.0,0,0,0,WillMa22
+10,RILB,Patrick Willis,San Francisco 49ers,1.0,2%,16,16,136,38,4.0,0,0,0,WillPa98

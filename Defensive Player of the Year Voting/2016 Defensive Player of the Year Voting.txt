@@ -1,0 +1,8 @@
+,,,,,,Games,Games,Tackles,Tackles,,Def Interceptions,Def Interceptions,Def Interceptions,-additional
+Rk,Pos,Player,Tm,Votes,Share,G,GS,Solo,Ast,Sk,Int,Yds,TD,-9999
+1,RDE,Khalil Mack,Oakland Raiders,18.0,36%,16,16,54,19,11.0,1,6,1,MackKh00
+2,LOLB,Von Miller,Denver Broncos,17.0,34%,16,16,62,16,13.5,0,0,0,MillVo00
+3,SS,Landon Collins,New York Giants,9.0,18%,16,16,100,25,4.0,5,72,1,CollLa00
+4,LDT,Aaron Donald,Los Angeles Rams,3.0,6%,16,16,36,11,8.0,0,0,0,DonaAa00
+5,RLB,Sean Lee,Dallas Cowboys,2.0,4%,15,15,93,52,0.0,0,0,0,LeexSe99
+6,SS,Eric Berry,Kansas City Chiefs,1.0,2%,16,16,62,15,0.0,4,98,2,BerrEr99

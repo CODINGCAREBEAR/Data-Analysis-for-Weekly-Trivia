@@ -1,0 +1,5 @@
+,,,,,,Games,Games,Tackles,Tackles,,Def Interceptions,Def Interceptions,Def Interceptions,-additional
+Rk,Pos,Player,Tm,Votes,Share,G,GS,Solo,Ast,Sk,Int,Yds,TD,-9999
+1,DT,Aaron Donald,Los Angeles Rams,27.0,54%,16,16,27,18,13.5,0,0,0,DonaAa00
+2,LOLB,T.J. Watt,Pittsburgh Steelers,20.0,40%,15,15,43,10,15.0,1,0,0,WattT.00
+3,RCB,Xavien Howard,Miami Dolphins,3.0,6%,16,16,40,11,0.0,10,77,0,HowaXa00

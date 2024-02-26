@@ -1,0 +1,8 @@
+,,,,,,Games,Games,Tackles,Tackles,,Def Interceptions,Def Interceptions,Def Interceptions,-additional
+Rk,Pos,Player,Tm,Votes,Share,G,GS,Solo,Ast,Sk,Int,Yds,TD,-9999
+1,SS,Ed Reed,Baltimore Ravens,20.0,41.7%,16,16,64,14,2.0,9,358,1,ReedEd00
+2,LILB,James Farrior,Pittsburgh Steelers,16.0,33.3%,16,16,67,28,3.0,4,113,1,FarrJa99
+3,RDE,Dwight Freeney,Indianapolis Colts,7.0,14.6%,16,16,33,3,16.0,0,0,0,FreeDw00
+4,LDE,Julius Peppers,Carolina Panthers,3.0,6.3%,16,16,53,12,11.0,2,143,1,PeppJu99
+5,LILB,Donnie Edwards,San Diego Chargers,1.0,2.1%,16,16,106,46,1.0,5,49,1,EdwaDo20
+6,RILB,Ray Lewis,Baltimore Ravens,1.0,2.1%,15,15,101,46,1.0,0,0,0,LewiRa00

@@ -1,0 +1,7 @@
+,,,,,,Games,Games,Tackles,Tackles,,Def Interceptions,Def Interceptions,Def Interceptions,-additional
+Rk,Pos,Player,Tm,Votes,Share,G,GS,Solo,Ast,Sk,Int,Yds,TD,-9999
+1,ROLB,James Harrison,Pittsburgh Steelers,22.0,44%,15,15,67,34,16.0,1,33,0,HarrJa23
+2,ROLB,DeMarcus Ware,Dallas Cowboys,13.0,26%,16,16,69,15,20.0,0,0,0,WareDe99
+3,FS,Ed Reed,Baltimore Ravens,8.0,16%,16,16,34,7,1.0,9,264,2,ReedEd00
+4,RDT,Albert Haynesworth,Tennessee Titans,5.0,10%,14,14,41,10,8.5,0,0,0,HaynAl20
+5,SS,Troy Polamalu,Pittsburgh Steelers,2.0,4%,16,16,54,19,0.0,7,59,0,PolaTr99

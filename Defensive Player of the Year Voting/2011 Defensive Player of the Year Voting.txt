@@ -1,0 +1,9 @@
+,,,,,,Games,Games,Tackles,Tackles,,Def Interceptions,Def Interceptions,Def Interceptions,-additional
+Rk,Pos,Player,Tm,Votes,Share,G,GS,Solo,Ast,Sk,Int,Yds,TD,-9999
+1,LOLB,Terrell Suggs,Baltimore Ravens,21.0,42%,16,16,50,20,14.0,2,9,0,SuggTe99
+2,RDE,Jared Allen,Minnesota Vikings,14.0,28%,16,16,48,18,22.0,1,14,0,AlleJa22
+3,RDE,Justin Smith,San Francisco 49ers,6.0,12%,16,16,45,13,7.5,0,0,0,SmitJu20
+4,RDE,Jason Pierre-Paul,New York Giants,5.0,10%,16,12,66,20,16.5,0,0,0,PierJa99
+5,RILB,Patrick Willis,San Francisco 49ers,2.0,4%,13,13,74,23,2.0,1,10,0,WillPa98
+6,LILB,NaVorro Bowman,San Francisco 49ers,1.0,2%,16,16,111,32,2.0,0,0,0,BowmNa99
+7,LCB,Charles Woodson,Green Bay Packers,1.0,2%,15,15,63,12,2.0,7,63,1,WoodCh00

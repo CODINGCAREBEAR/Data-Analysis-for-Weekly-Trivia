@@ -1,0 +1,6 @@
+,,,,,,Games,Games,Tackles,Tackles,,Def Interceptions,Def Interceptions,Def Interceptions,-additional
+Rk,Pos,Player,Tm,Votes,Share,G,GS,Solo,Ast,Sk,Int,Yds,TD,-9999
+1,RDE,J.J. Watt,Houston Texans,37.0,74%,16,16,57,19,17.5,0,0,0,WattJ.00
+2,LDT,Aaron Donald,St. Louis Rams,7.0,14%,16,16,44,25,11.0,0,0,0,DonaAa00
+3,MLB,Luke Kuechly,Carolina Panthers,4.0,8%,13,13,76,42,1.0,4,48,1,KuecLu00
+4,RCB,Josh Norman,Carolina Panthers,2.0,4%,16,16,48,8,0.0,4,110,2,NormJo01

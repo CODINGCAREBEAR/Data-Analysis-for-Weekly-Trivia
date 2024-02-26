@@ -1,0 +1,4 @@
+,,,,,,Games,Games,Tackles,Tackles,,Def Interceptions,Def Interceptions,Def Interceptions,-additional
+Rk,Pos,Player,Tm,Votes,Share,G,GS,Solo,Ast,Sk,Int,Yds,TD,-9999
+1,LDE,J.J. Watt,Houston Texans,49.0,98%,16,16,69,12,20.5,0,0,0,WattJ.00
+2,LILB,Von Miller,Denver Broncos,1.0,2%,16,16,55,13,18.5,1,26,1,MillVo00

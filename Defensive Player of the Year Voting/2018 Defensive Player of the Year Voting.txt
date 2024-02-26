@@ -1,0 +1,4 @@
+,,,,,,Games,Games,Tackles,Tackles,,Def Interceptions,Def Interceptions,Def Interceptions,-additional
+Rk,Pos,Player,Tm,Votes,Share,G,GS,Solo,Ast,Sk,Int,Yds,TD,-9999
+1,RDT,Aaron Donald,Los Angeles Rams,45.0,90%,16,16,41,18,20.5,0,0,0,DonaAa00
+2,LOLB,Khalil Mack,Chicago Bears,5.0,10%,14,13,37,10,12.5,1,27,1,MackKh00
